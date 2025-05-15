@@ -2,4 +2,3 @@ streamlit
 opencv-python
 pillow
 plotly
-libgl1-mesa-glx
