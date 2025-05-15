@@ -4,3 +4,4 @@ opencv-python
 pillow
 pandas
 plotly
+pickle
